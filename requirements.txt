@@ -1,0 +1,13 @@
+pandas
+seaborn
+matplotlib
+scikit-learn
+fastapi
+uvicorn
+joblib
+pydantic
+mysql-connector-python
+python-dotenv
+requests
+sqlalchemy
+starlette
